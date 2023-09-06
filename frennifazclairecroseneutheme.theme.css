@@ -11,7 +11,7 @@
 
 :root {
   --main-color: #7B3B00;
-  --hover-color: #1e63b3;
+  --hover-color: #503000;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: #03A9F4;
@@ -84,5 +84,6 @@
 }
 
 /* Any custom CSS below here */
+
 
 
